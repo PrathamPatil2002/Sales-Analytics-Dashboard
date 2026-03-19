@@ -21,7 +21,7 @@ This dashboard provides a **comprehensive and visually appealing analysis** of s
  
 * Preview
 
-* ![Screenshot_19-3-2026_141947_](https://github.com/user-attachments/assets/748dd4d3-081f-4d31-b9c1-d59094a68e28)
+ ![Screenshot_19-3-2026_141947_](https://github.com/user-attachments/assets/748dd4d3-081f-4d31-b9c1-d59094a68e28)
 
 
 * **Sales by Region (Bar Chart)**
